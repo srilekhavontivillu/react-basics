@@ -1,0 +1,40 @@
+body{
+  background-color: burlywood;
+}
+
+.todo{
+  display:flex;
+  background-color:skyblue;
+  height:60%;
+  flex-direction:column;
+  border:solid;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+p{
+     margin:20px;
+     padding-left: 2%;
+}
+
+input{
+  width:60px;
+  height:60px;
+}
+
+.todoitem{
+    display:flex;
+    align-content: center;
+    border:darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-weight: bolder;
+  }
+  .para{
+    font-size:80px;
+  }
+  
+
+
+
+
